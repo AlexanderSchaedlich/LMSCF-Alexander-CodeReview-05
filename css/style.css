@@ -1,0 +1,28 @@
+/* fonts and colors */
+
+body {
+	/* font */
+}
+header, footer {
+	background-color: black;
+}
+.heading {
+	background-color: #454545;
+}
+.container-fluid {
+	background-color: #1d2329;
+}
+.row > div {
+	background-color: #181818;
+}
+
+/* positioning */
+
+* {
+	margin: 0;
+	padding: 0;
+	border: white solid 1px;
+}
+img {
+	width: 30%;
+}
