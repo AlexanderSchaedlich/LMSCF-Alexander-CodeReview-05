@@ -6,7 +6,7 @@ body {
 header, footer {
 	background-color: black;
 }
-.heading {
+.navbar {
 	background-color: #454545;
 }
 .container-fluid {
@@ -22,6 +22,16 @@ header, footer {
 	margin: 0;
 	padding: 0;
 	border: white solid 1px;
+}
+.heading {
+	position: relative;
+}
+.heading > button {
+	position: absolute;
+	top: 0;
+	right: 0;
+	background-color: #1d2329;
+	border: 2px solid #1d2329;
 }
 img {
 	width: 30%;
