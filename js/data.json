@@ -1,30 +1,36 @@
 var data = `[
 	{
+		"src": "img/pirates_of_the_caribbean.jfif",
 		"name": "Pirates of the Carribean 4",
 		"desc": "Blacksmith Will Turner teams up with eccentric pirate Captain Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
 		"likes": "10"
 	},
 	{
+		"src": "img/jaws.jfif",
 		"name": "Jaws",
 		"desc": "When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
 		"likes": "12"
 	},
 	{
+		"src": "img/the_shining.jpg",
 		"name": "The Shining",
 		"desc": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
 		"likes": "12"
 	},
 	{
+		"src": "img/lotr.jpg",
 		"name": "The Lord of the Rings",
 		"desc": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
 		"likes": "12"
 	},
 	{
+		"src": "img/vikings.jfif",
 		"name": "Vikings",
 		"desc": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore - and raid - the distant shores across the ocean.",
 		"likes": "12"
 	},
 	{
+		"src": "img/the_witcher.jfif",
 		"name": "Witcher",
 		"desc": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
 		"likes": "12"
